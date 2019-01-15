@@ -5,6 +5,7 @@ const UserOutput = (props) => {
     <div>
       <p>Username: {props.username}</p>
       <p>{props.text}</p>
+      <p>Some text....</p>
     </div>
   )
 }
